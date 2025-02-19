@@ -2,44 +2,25 @@
 
 ![Header](https://github.com/Kateryna-Komarova/Helpix_project/blob/main/image/Screenshot%202025-02-19%20at%2019.26.54.png)
 
-- 👋 Hi, I’m @Kateryna-Komarova
-- 👀 I’m interested in automated testing
-- 🌱 I’m currently learning QA Automation
+### Documentation 
 
-### Documentation 💻
+[Test plan](https://docs.google.com/document/d/1ms0j-khLBX9-NTY_ffnFH46Irxy3-WetVYYxnqWs6hE/edit?usp=sharing)  
 
-[Test plan](https://docs.google.com/document/d/1ms0j-khLBX9-NTY_ffnFH46Irxy3-WetVYYxnqWs6hE/edit?usp=sharing)
-[Test cases](https://docs.google.com/spreadsheets/d/173PKxp25hY9lC2Zo2913OS3Tv-aWCLwo5VU21NIjHkA/edit?usp=sharing)
-[Bug reports](https://docs.google.com/spreadsheets/d/1s5mirtaLL5N99s9o4fM8xPGZWnBgOXzKuUHaepUTB80/edit?usp=sharing)
+[Test cases](https://docs.google.com/spreadsheets/d/173PKxp25hY9lC2Zo2913OS3Tv-aWCLwo5VU21NIjHkA/edit?usp=sharing)  
 
+[Bug reports](https://docs.google.com/spreadsheets/d/1s5mirtaLL5N99s9o4fM8xPGZWnBgOXzKuUHaepUTB80/edit?usp=sharing)  
 
-### Soft skills 🌱
+### Related repositories  
 
-* Multitasking Ninja – Switching between 10 tabs without losing track of where the bug report is.🥷🏻
+[Helpix_API](https://github.com/Kateryna-Komarova/Helpix_API)  
 
-* Learning Agility – willingness and ability to quickly learn new tools, frameworks, and concepts.
-* Attention to Detail – spotting small errors or inconsistencies that can impact the overall project.
-* Creativity – thinking outside the box to innovate and improve processes or solutions
-* Empathy – understanding the needs of users, team members, and stakeholders to deliver better results.
-* Communication – Clear and effective interaction with team members, stakeholders, and clients.
+[Helpix](https://github.com/Kateryna-Komarova/Helpix)  
 
-### Languages & Tools
+### Animation  
 
-<div>
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-html-136528.png width="40" height="40" />
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-java-3291669.png width="40" height="40" />
-
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/icons8-postman-api-128.png width="40" height="40" />
-
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-github-733553.png width="40" height="40" />
-
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-visual-basic-5968389.png width="40" height="40" />
-
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/IntelliJ_IDEA_Edu_Icon.svg width="40" height="40" />
-
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/bekeeper.png width="40" height="40" />
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/idCWC37RrG_1736264936424.png width="40" height="40" />
- </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
+</div>
 
 <!---
 Kateryna-Komarova/Kateryna-Komarova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
