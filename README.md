@@ -1,7 +1,6 @@
 # Helpix_project
 
-[![Header](https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/qa1.png)](https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-584aab210/)
-
+[![Header](https://github.com/Kateryna-Komarova/Helpix_project/blob/main/image/Screenshot%202025-02-19%20at%2018.53.56.png)]
 
 - 👋 Hi, I’m @Kateryna-Komarova
 - 👀 I’m interested in automated testing
