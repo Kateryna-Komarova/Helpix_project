@@ -25,7 +25,7 @@
 ##  
 
 <div align="center">
-  <img src="https://i.gifer.com/9viJ.gif" width="100%" height="auto">
+  <img src="https://i.gifer.com/9viJ.gif" width="200" height="100">
 </div>
 
 
