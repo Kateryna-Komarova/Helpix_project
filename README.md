@@ -6,23 +6,11 @@
 - 👀 I’m interested in automated testing
 - 🌱 I’m currently learning QA Automation
 
-### Tech skills 💻
+### Documentation 💻
 
-* SQL
-* Rest API testing
-* Basic knowledge about software development models (waterfall, v model, agile(scrum,kanban) )
-* Software testing
-* Creating test cases
-* Reporting bugs
-* Basic Java
-* Basic HTML and CSS
-* Understanding client-server architecture
-* Understanding test design techniques
-* Understanding the Software Development Life Cycle (SDLC)
-* Linux
-* GIT
-* Jenkins
-* Gherkin
+[Test plan](https://docs.google.com/document/d/1ms0j-khLBX9-NTY_ffnFH46Irxy3-WetVYYxnqWs6hE/edit?usp=sharing)
+[Test cases](https://docs.google.com/spreadsheets/d/173PKxp25hY9lC2Zo2913OS3Tv-aWCLwo5VU21NIjHkA/edit?usp=sharing)
+[Bug reports](https://docs.google.com/spreadsheets/d/1s5mirtaLL5N99s9o4fM8xPGZWnBgOXzKuUHaepUTB80/edit?usp=sharing)
 
 
 ### Soft skills 🌱
