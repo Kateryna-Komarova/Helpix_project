@@ -15,12 +15,12 @@
 [Helpix_API](https://github.com/Kateryna-Komarova/Helpix_API)  
 
 [Helpix](https://github.com/Kateryna-Komarova/Helpix)  
-
-### Animation  
-
+ 
+###
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYwda3RrYQ/giphy.gif" width="400px">
 </div>
+
 
 <!---
 Kateryna-Komarova/Kateryna-Komarova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
