@@ -1,6 +1,6 @@
 # Helpix_project
 
-[![Header](https://github.com/Kateryna-Komarova/Helpix_project/blob/main/image/Screenshot%202025-02-19%20at%2018.53.56.png)]
+![Header](https://github.com/Kateryna-Komarova/Helpix_project/blob/main/image/Screenshot%202025-02-19%20at%2018.53.56.png)
 
 - 👋 Hi, I’m @Kateryna-Komarova
 - 👀 I’m interested in automated testing
