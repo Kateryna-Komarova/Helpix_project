@@ -15,11 +15,13 @@
 [Helpix_API](https://github.com/Kateryna-Komarova/Helpix_API)  
 
 [Helpix](https://github.com/Kateryna-Komarova/Helpix)  
- 
-###
+
+###  
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYwda3RrYQ/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF5NHIwaWlmNmFqMXNvZGtzN2k4NTI1aGRyb2M5eDlmM2VqaWVscCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 </div>
+
 
 
 <!---
