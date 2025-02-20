@@ -1,4 +1,4 @@
-# Helpix Project 
+#  Helpix Project 
 
 <div align="center">
   <img src="https://github.com/Kateryna-Komarova/Helpix_project/blob/main/image/Screenshot%202025-02-19%20at%2019.26.54.png" alt="Header">
@@ -40,13 +40,13 @@
 
 | Component | Repository | Description |
 |-----------|------------|-------------|
-| 📂 Backend API | [Helpix_API](https://github.com/Kateryna-Komarova/Helpix_API) | API testing  |
-| 🖥️ Frontend | [Helpix](https://github.com/Kateryna-Komarova/Helpix) | Automated UI tests |
+| 📂 Backend API | [Helpix_API](https://github.com/Kateryna-Komarova/Helpix_API) | API testing and validation |
+| 🖥️ Frontend | [Helpix](https://github.com/Kateryna-Komarova/Helpix) | Automated UI testing suite |
 
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
+  <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" hight="200">
 </div>
 
 
