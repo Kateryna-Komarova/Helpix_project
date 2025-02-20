@@ -1,4 +1,4 @@
-# 🏥 Helpix Project 
+# Helpix Project 
 
 <div align="center">
   <img src="https://github.com/Kateryna-Komarova/Helpix_project/blob/main/image/Screenshot%202025-02-19%20at%2019.26.54.png" alt="Header">
@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800">
+  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
 </div>
 
 
