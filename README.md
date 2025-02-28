@@ -41,18 +41,13 @@
 | Component | Repository | Description |
 |-----------|------------|-------------|
 | 📂 Backend API | [Helpix_API](https://github.com/Kateryna-Komarova/Helpix_API) | API testing and validation |
-| 🖥️ Frontend | [Helpix](https://github.com/Kateryna-Komarova/Helpix) | Automated UI testing suite |
+| 🖥️ Frontend | [Helpix](https://github.com/Kateryna-Komarova/Helpix_UI) | Automated UI testing suite |
 
 ---
 
 <div align="center">
   <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" hight="200">
 </div>
-
-
-
-
-
 
 
 <!---
